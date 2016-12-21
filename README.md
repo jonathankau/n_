@@ -1,6 +1,6 @@
 # n_
 
-Node.js REPL with lodash
+Node.js REPL with lodash v^3.10.0
 
 [![Build Status](https://travis-ci.org/borisdiakur/n_.svg?branch=master)](https://travis-ci.org/borisdiakur/n_)
 [![Coverage Status](https://coveralls.io/repos/borisdiakur/n_/badge.svg?branch=master)](https://coveralls.io/r/borisdiakur/n_?branch=master)
